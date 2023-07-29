@@ -1,3 +1,5 @@
+Thanks openAI.com chatGP 3.5 for generating code. I hope , it will lead to real app&data orchestration. I need it, as chaos rules on my side.
+
 # inCo
 
 A new Flutter project created with FlutLab - https://flutlab.io
